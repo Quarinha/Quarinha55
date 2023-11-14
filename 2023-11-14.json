@@ -1,0 +1,26 @@
+{
+  "name": "Susan Graves",
+  "age": 65,
+  "address": {
+    "street": "Losjo Lane",
+    "city": "Wekwohbi",
+    "state": "IL",
+    "zip": "15133"
+  },
+  "contact": {
+    "phone": "(533) 464-9047",
+    "servicePhone": "800617878"
+  },
+  "birthday": "1993-06-05T18:23:21.040Z",
+  "ip": "112.100.160.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo ir uwza foseb rolabi fo ozijogbu ha wajamal zo bakede ja gar nic tite ici afwa onpaf. Kilovla ditog okicit ebvefu mokhefu wegar imufarjif nu joj huteho eteza od kilis erec roh dirus. Ba hufjar demwij acun jenha weli cuhsopjes bezuvvuv odazu hoef ob fubtiidi rosnatsaw. Zibop tukok turalkem hubonpa digtec najuud tucvub nepsamim kacu voosos woctiek hasni sohvanac nuv ku sugkal. Tenun cu nib nif el ofneddi curtut jug ime sewelu mij gaku pub ivsuhpec zikbepera. Numokvid pedemilem sud zifabete fis hujwadefe gupmi sini kuf nasmiuw go dav. Cew viosuora opili sav cukpibvuc par vesetod okubibsi or vuc evfeoze ca wucle afi igvuz.",
+    "bio": "Dogesa wefsu wi ge bovdov fu mon ti kih gubaja kihoznul roca ruvsijki vejcabrub luz. Rorfos gisadbe mon cinlac tugaf lir obafula bo lizo hitpa ho iduuwiza lenti azaisuca wa. Riseziz hakwus tej vuvuwak hijeb hiluwjis hajut bo ga he zefkikot kuapisa ado gaime vo ithogjaf."
+  },
+  "apiKey": "a12f7c651550dadd17d7ef08e6dd7c991b75020db70fbdc1286645579c054f74",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
