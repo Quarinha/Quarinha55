@@ -1,0 +1,26 @@
+{
+  "name": "Mark Holt",
+  "age": 35,
+  "address": {
+    "street": "Taori Lane",
+    "city": "Vuesijim",
+    "state": "CT",
+    "zip": "46957"
+  },
+  "contact": {
+    "phone": "(258) 625-5316",
+    "servicePhone": "800362141"
+  },
+  "birthday": "1969-05-25T09:29:19.510Z",
+  "ip": "109.156.27.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Amosa enad ritbukil emgoj sulkoli oti uh dekhe kerazukik zoca fotdemab inraw dajpenap um elduhnup tuus. Dituba derdapip guv su keirasa eru vej kukaminu min lus ivalu tebkaed. Uvecas pik acetu sehcus huaba sezuza woivmur ehujuvtod epi uku numdudaj naic buk.",
+    "bio": "Podpevi gisnavhe gaj rewerru voh jiavare kihetu gamwot nafdorzom utaba emma izuh agohudu pazep ej pure pize. Fuatva huf rekwu seji captofma li ji upili wukazij jifo og evi omu wuhzujbo ec acaca jamoju am. Uvupilofu to di hijnojgu kekkaepi uljazit ipkodobo gu busomo kag ze ichupor bifuz awaw fosvinet zeasuva ri pedgegmez. Mi sa ika nuvivi ruprikmuk lotobbe pog cebocofa iwuubna ihe caar ti. Wefkej dofbik lecaz efhi ruwdonip uga saporrow deno witrij tow mij cu cufiz luwati duwel sucaljah im vikano. Zi kiprez we ma muwbo wubulova innetop jurfun ovfib amifot udakosnu bi nubvap zobta nod fosamodip siiba ma."
+  },
+  "apiKey": "1314b5b4c0d1615f22f03189574fe8ed7b65aa2882bab571d933cecb9dfaa84c",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
