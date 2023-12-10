@@ -1,0 +1,26 @@
+{
+  "name": "Leon Simmons",
+  "age": 42,
+  "address": {
+    "street": "Hubo Parkway",
+    "city": "Jogfuozu",
+    "state": "ND",
+    "zip": "06151"
+  },
+  "contact": {
+    "phone": "(242) 923-1899",
+    "servicePhone": "800542353"
+  },
+  "birthday": "1977-11-11T14:41:49.588Z",
+  "ip": "180.194.157.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Woowuis nurudus wuwno po ranun zoatodo uwufavik gak lu urdaz mejba nohoem. Efvesir pabzoswe mu larip ab ciga nunupsi tiju ovoneuze teugodo rup veahegur puz zousi. Ezoje kir seb hausira ubca ozfulet afubas ijna ujuusi vi eguvdo bo zilesefa eriaw. Vuzlos wo eraninel jijakfok cu sepo radautu jofmej osood ak jejupici soima bu isuti.",
+    "bio": "Retjel vahbi ucenoki ajafaowo mocije es feoc voji eh pusmumto ege awu da adov evegovo. Gawtid waswoj uf umdettaf hahukki ukahogeco fubuoki ciknop tobimo fos diag te ow modlup ka. Vamfuc hezi kud hofbobbi sufpidral ebmaer pemag cel abuoci derfimziw cukduz isemafli wuvoze olalucog ru geubirid piczeb."
+  },
+  "apiKey": "cfb9183fe805f56250dffb196a93f69861a7c09dbfb098e2bab1c46b666122c4",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
