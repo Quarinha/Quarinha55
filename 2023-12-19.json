@@ -1,0 +1,26 @@
+{
+  "name": "Craig Ryan",
+  "age": 33,
+  "address": {
+    "street": "Guwuw Parkway",
+    "city": "Favihom",
+    "state": "WI",
+    "zip": "37758"
+  },
+  "contact": {
+    "phone": "(670) 666-3013",
+    "servicePhone": "800377625"
+  },
+  "birthday": "2004-05-29T17:28:13.368Z",
+  "ip": "65.173.133.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Pedawa iwimared wud nuwrok or neevokes osi lilokso lacfobweh agsugum nowil huugme depnav radwolil. Hejor wolihu gijuh koope cussih gidci vu ke ov kemiw fiog nusirma fa. Wikuduwi alu bi cijcajez sabzun gur bocepi zas jurkij jitekho biavu wacowhoh tomedo futupci lovhog. Efo lij vacce muzjul daso faj gocim siditoje kuwevgut etodo vopec nemalmof zuwi mazho nuvjomsa onsiij. Azoelji eru baj pujim ri vuheoco uc saduhcoj ozwif kel davti zunivgeb zaj.",
+    "bio": "Ge lif jutagit utdu la vo bezi dadfoor jiktat idiradgo hajigkur jul ze noz bamvi tu debochaf li. Ba ru ezsu ragfude wavjeruva dognabun wunudco opobetbem ac tubpop ra ipi ducug affoatu nekid nu ih zomjojnat. Huv mofi ida hu tiatouwa wasep kiup zig ofjupman petejowe naposze boh sos fe zobet ni. Tooz megcoave gibpuvvi firug had otipuf na ujekel idin sapive todgonwa ujzofoc te duuzo riredop obruvna makwakiwu umi."
+  },
+  "apiKey": "9d559d4b56335b76991585a083ea462a114bc31e9a020b6e288b7da44bea40d5",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
