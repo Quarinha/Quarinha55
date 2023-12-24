@@ -1,0 +1,26 @@
+{
+  "name": "Lela Stevens",
+  "age": 44,
+  "address": {
+    "street": "Sisaw Place",
+    "city": "Ifutako",
+    "state": "NH",
+    "zip": "77490"
+  },
+  "contact": {
+    "phone": "(337) 642-2884",
+    "servicePhone": "800984731"
+  },
+  "birthday": "1983-03-04T02:06:24.542Z",
+  "ip": "63.18.76.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Maemo mojer dot rew piiru nejohzan devboifo siirete lu epe hov ratas sivotze zi hob. Zulagsis sietu sajal gekeblov ur uluzahbed vefev lingo hib ajeofcaw hem he efekug. Gopaawu mit goswom pugdikra fopkuzliw fe nukte sid jevgimbu wasmaze pa dodig tef baj ede rapgevjej tew sizan.",
+    "bio": "Eba ano ke sezoli fu irgiti fa bukwuwo cam delejuc ti fagnaj. Ze ka huku ticgu cajfe ceahe wefgihar ri cogpi ge mi mezri. Me tiguw fa nokfo vujaj havzuofu amvig vegses pecorfub sugogime latji tasmodtag ca ubesedbok bejipuj kigu zetawomu olewu. Opa kosufu si cici lideji gum jun daebku uga orujubhi len eveticzo poideaja sufuboga hugmel tail razej. Pugego lizna copijvi uhezojwa tej ponceh ho fopibop agiemu ahatuk wu cevnikim. Ni iso vaco denet cepotluz zueju tirlaz irpehik bapuwi vapfu do migor. Atmelez itooru oc van suwak tuvugzak hobat howijhez ab utaji ik daplilnag fuw banruiha genehenag cut upokem ub."
+  },
+  "apiKey": "e29551eae60635b7cdf732073be49a55efab422dc324e9e9d285aa91b0e61c81",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
