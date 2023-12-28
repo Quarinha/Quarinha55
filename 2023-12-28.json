@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Berry",
+  "age": 42,
+  "address": {
+    "street": "Landa Drive",
+    "city": "Citzewro",
+    "state": "MI",
+    "zip": "05656"
+  },
+  "contact": {
+    "phone": "(222) 907-8090",
+    "servicePhone": "800726949"
+  },
+  "birthday": "1991-08-01T21:46:01.877Z",
+  "ip": "254.116.142.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Narno gofem vu umo oco wo howwu lolfare jep dimwic zizhubtu lalso. Lot ugbotug jobu rije en ej wemegwid nokicud igokowit tofufin comaplek ogepiz hugi kasir emwubru soej. Ladeh aju baficon okawucta ve enukal ake faz begefe nunecu filveriku fama esi malve elda dil ah.",
+    "bio": "Carmil cobepdu fid ufsompag bipuhmoj ad ramasir wubefufa zihit papole herikdog unsalo tudha ageguesi se emhig. Nerni we takuco hazpo wi acfi uteeju tujam ode usmi pig juig. Buk ozidurhi ras ho ko kop zuc ukhos jo uriibap ujoupe fe hotuc di duvhep eveko cac. Vu nih jo uroguga cujetgub am buzih wup cogsacza netga monif suuw miigci hedvigel."
+  },
+  "apiKey": "4e414dd92ded28e8e2a9008f37abe7c696901f954132211780c55ba5e5e852a1",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
