@@ -1,0 +1,26 @@
+{
+  "name": "Marian Moran",
+  "age": 40,
+  "address": {
+    "street": "Delor Court",
+    "city": "Tiedehul",
+    "state": "NJ",
+    "zip": "17676"
+  },
+  "contact": {
+    "phone": "(913) 702-8616",
+    "servicePhone": "800466233"
+  },
+  "birthday": "1970-01-15T20:00:39.029Z",
+  "ip": "159.70.31.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Katu sutke toj wudden hetfok niim ca jaane kofmo munno gomi va cithi ogupazwo bov zizcuur. Esa jef aweuda liw vifa pokeh nosemluh hururuudu vuwod damu fibiweofi je vowmeca sumbuwoh. Mekbesra iw rukkeac ilulear gasseeba kop ilraj pevsol vav bise rew galtammag tamcad.",
+    "bio": "Haha zig sup babaz serufmo luvjag vumjono wijjes da itufelo ho taazaani pasof. Upgihfec befcu kek wisnew cifru amcad difnahe onef rif jiekome ohfu welezut dul witen. Ga facijo vukun tal revhun ep tibe mat hiefaki dese owivud cogu zo gi lozger wogru. Duh wofjabi eddenu uku foluwlac im ulenefo vorafuwu sipewhag tura ihegwi diramma wi. Wibih li jejnoif ko izuf juk memiz wobsijmi oknifopi nata wes vekrazo lipzet. Vol jacvaze ike zas licig rodeod wifataez tum gudgef buom nehjop lafli tuwuji ijojusluz soto jer. Olodev oj oge catvoto kawbo are so acretas fapajma egi bozozad ga en zi siewe ikiki."
+  },
+  "apiKey": "220b9fb407cca2568b19032ef3eacac8b2ebf282a47cdea93108a3dd6c54485f",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
