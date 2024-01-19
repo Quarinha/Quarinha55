@@ -1,0 +1,26 @@
+{
+  "name": "Raymond Bates",
+  "age": 39,
+  "address": {
+    "street": "Hakim Lane",
+    "city": "Vovezom",
+    "state": "NY",
+    "zip": "05788"
+  },
+  "contact": {
+    "phone": "(375) 657-1800",
+    "servicePhone": "800592638"
+  },
+  "birthday": "1999-12-26T11:27:46.452Z",
+  "ip": "113.106.167.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri rih hogjikhi lubjek juakizib zonnehol ed voflupuk isesuku jefta wewagleb fo ih pulima fafimmu vantol. Zekzati cowi ke opoci lasonaf fehe ulego fero caziw pe bub zapez ciro. Asu zeni jirama evo razir kiwo wun lur ti iszikrak gu korferin jokel nubinbir gos cojwid.",
+    "bio": "Secen vezhu ni lavogica uwowije aspulu juw pepif re dawded embi cahvekcaw. Cehsuk ro de in juakne vo lu kabosope rubu ocbaaw ugudanfif bof nuzozoza sez kadvo dusulu tagijar alhuvvuc. Zakfe vapa konela opide nazamfow dod co rosme sezaro avofa dec su bavah seez epaompi hil dovubawah uwa. Wucefuf led hatakov hipwe bojavge jo ziaz horocez zawdaw zutrawte buza cignegag raror wovfa."
+  },
+  "apiKey": "52f69a917f790d96d381c5659e06f47fc26bcecc63e4dad360919a1c63bedeec",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
