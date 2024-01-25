@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Caldwell",
+  "age": 62,
+  "address": {
+    "street": "Irulu Heights",
+    "city": "Virukjis",
+    "state": "KS",
+    "zip": "88960"
+  },
+  "contact": {
+    "phone": "(657) 718-5579",
+    "servicePhone": "800774868"
+  },
+  "birthday": "1982-12-10T03:57:49.582Z",
+  "ip": "50.29.2.70",
+  "foo": "bar",
+  "profile": {
+    "about": "El eco ozidu fomejat me dapjem ihraego gir ra nohif we heaj. At pi hisamzis ijaenal habutheh cisipu togupom kuc jaka tumbun bucar raw hoabo ejka abazuf ricraese. Eblucoh opo jum ino baul muravhah tabretgeh ra vufva ileku afbunaco duvcimum kid. Bem gudowato hoce petwi hil mikitcun jub hotespi ivawa um admibti du jo rulsup ciwkiro.",
+    "bio": "Dasorki vokjesu agiarizi lu baz jiophew nerumac sor ewo giwiz wova av wusi. Gutkadok asusotu olhut soumoka uludatvo refusewo emmugcik zalzegac ofelafme deldutub mot fu nuljupce dabosuf butmejah ze go gonaczec. Enituf new nuleghav ipoma ba gebke ulbabju fop ev eprefobe odve icope nupi gep wijaf."
+  },
+  "apiKey": "09aed87553130359d73306fa47199e8d37778b52fd484aa8e3e232cb35a9caf1",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
