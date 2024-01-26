@@ -1,0 +1,26 @@
+{
+  "name": "Maud Oliver",
+  "age": 36,
+  "address": {
+    "street": "Kussev Lane",
+    "city": "Jeorzos",
+    "state": "DE",
+    "zip": "54141"
+  },
+  "contact": {
+    "phone": "(837) 469-8720",
+    "servicePhone": "800254253"
+  },
+  "birthday": "1960-09-16T15:07:10.913Z",
+  "ip": "102.252.34.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Fulo cifa bizasdo coplu taped nijkew hisafa ekumu docut tig iza duvnites cid ruzoj uwmisme. At zomigape pebbiner zoesges wabeada ivpaj vuc burozuge zoviufa alzuf bubebo sumef jog dila vattoera erfek eh. Fi dahup god idha curitevu gazmeriho mapfu owhelri agoz vero he viwluheka.",
+    "bio": "Vuzac voroziw at wuog kakorvi acdojih ipige bit odrol rijifgi hugak guzegti jepodsi durol cobaz. Cik dotzal cur avu puwju ve lu johkafaj hiv uhihigo sapa lilnec pih ar ulise. Jeh hem ric pog adote afahgi mun sokek kazhabwuv fub zucoz takpup her naiptu evuuh iw ro iguvo."
+  },
+  "apiKey": "4e3b3ddd5a500d4d54fcd48a401da12836dc5af9d329febdf716f2fdf65fea47",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
