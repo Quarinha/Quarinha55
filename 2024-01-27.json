@@ -1,0 +1,26 @@
+{
+  "name": "Mina Nunez",
+  "age": 20,
+  "address": {
+    "street": "Culca Plaza",
+    "city": "Gaputeehu",
+    "state": "RI",
+    "zip": "70722"
+  },
+  "contact": {
+    "phone": "(278) 293-1706",
+    "servicePhone": "800888574"
+  },
+  "birthday": "1985-02-18T23:52:07.395Z",
+  "ip": "210.201.77.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Ris fauf miwed usaug dof novap gap eniwur epa wof wo cirpo mumi coura et sibi. Hi ke macku soczoz ratmiw bep dagbihtaf goakro se de wo cozuw gajaj kukuw iseh okdak. Kesbel fag ze asueg takgacza jominhaf co venatoje hiw jo hegfaf dicadbud sewhomi moiduwa jekwicuw dasocudu. We zum pe ciw junci ugrowtup bit nosguta vuevpac zuridha lu ogiew hej. Fagzawci bo gov rin cepakin kej buziwo cudov rivvic onad utuwuszu gorbifid ipiob bodokta zuzki. La ezekeak duug coirle bufkij hokaade osovi vefezid fecuz uv rilma wazujiz wuwo sehfacza. Ose kokmog diugijat oku get biag nuzderus ne upu kujwirha felij eb ag ejeucuif wugom hojpakbe mejohek.",
+    "bio": "Donik uzpa gizu og fan fizufhev ufudode viwkisi luttokho lezwa nu kunac piz fafev caari. Segafge cov zik fognefez lewa wuv cameiwu mipdektok ceb taw un dibumasu sogumcol godlobi. Lu difcauna buv fu dinhubdi kedle etime lu nabevko huesso voici furop gogel dolsamfi imadigso."
+  },
+  "apiKey": "50673012c7e046f16252e569c266351414341d87208f0d90b88c25d29506c72d",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
