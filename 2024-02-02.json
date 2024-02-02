@@ -1,0 +1,26 @@
+{
+  "name": "Brett Douglas",
+  "age": 34,
+  "address": {
+    "street": "Zofe Square",
+    "city": "Cilanedo",
+    "state": "MD",
+    "zip": "13906"
+  },
+  "contact": {
+    "phone": "(248) 734-7397",
+    "servicePhone": "800553416"
+  },
+  "birthday": "1993-10-08T01:19:07.837Z",
+  "ip": "28.201.88.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Bo rentevbe go bibepid mi edgefub ilta ne ozo copi huku towduf ap ketmi. Lilipob utiiwku edkap uduruw gomamupe gunfohdig nawe owidud rozeji suwli lec raliro hagneoc nozfazeh rululci red ke wipcam. Famzitdec bimeevu je hes waobi wehetod tazdu tep owe hucvafo pis ep parruhub tuwevize guzjaoju udsali.",
+    "bio": "Gemopvom othod jo ilomu nilpaz op furazwon fubfa ake pipin utuatolik piwmirer talegwe ginkepuh doledob gacwulci. Sonomom vergejsok lizfag ufunek na ut avoran wel usra tuzhuab vipcu ozej laku adon pe uh idofe. Tobem jincamsi peus ujofmiz no kag tif dubonvom kocsi fahe igzuze jajgi ceikbi wugjolnav cidlen zawanub."
+  },
+  "apiKey": "ac058740a64c03a7d2ce36326daeba427c18480381ebd71614eb40c39f6db843",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
