@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Reyes",
+  "age": 33,
+  "address": {
+    "street": "Epkeb Court",
+    "city": "Lihivav",
+    "state": "OK",
+    "zip": "15806"
+  },
+  "contact": {
+    "phone": "(770) 914-9102",
+    "servicePhone": "800853357"
+  },
+  "birthday": "1996-02-13T16:56:10.266Z",
+  "ip": "165.18.206.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Akiatana bidwood gazidju cobesmo irno su pa ful huzta kaj sar kohzengij vumwugov meuwuez zi gizutfe nean markudka. Vessi kajwok voh rabijteh du ikufajwu tohufa mavma cemaj lejhisfeg jodav vo moh. Igatisco tovwosuf peg us gu vijzik ri hovactez he hoziba netok vaz pus sa ulbefuw gegiczo satu gazodi.",
+    "bio": "Guseda dejsul pad nibsi de kogupu ki gu lakri vuz visfogdip morvujde pob cocecre voc uko li uzwojo. Detitbu rodagu noh jopimaosu zipwifus wawriro owhohfe likdufma socuwuvo tewpiphat uvufuoc kegapel wa notno kohvolu baf bugossa. Ciaza je digu doveb vergod jot izobu si bokosa ru fiimbo ef ajtob aw hor jeca."
+  },
+  "apiKey": "fa3fa0f8b664b6cd4ebcaa7da0d42f7569f40a203946694dec89536199d67e77",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
