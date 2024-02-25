@@ -1,0 +1,26 @@
+{
+  "name": "Nettie Hall",
+  "age": 27,
+  "address": {
+    "street": "Remaf View",
+    "city": "Duwektaf",
+    "state": "PA",
+    "zip": "55398"
+  },
+  "contact": {
+    "phone": "(344) 506-7714",
+    "servicePhone": "800526244"
+  },
+  "birthday": "1984-07-04T18:11:28.192Z",
+  "ip": "71.179.104.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Ho fem am calira farip oj vinezfu ama uvefu ufiej vilka mechij. Besiv lococdu na orte ne veg pi notdihtu as zandov irolcan genjaluk ir ej wurof du ar binaj. Cabimhe jenawfow tanrum fumrit povsuc vegabgup meug kuj rag cideti ip bohegas ese. Lina keemuob ke bar itfuavi jeadase wik ludzumuwa lem voviko nil ignek in li ve ru.",
+    "bio": "Wib tovivohe fidudi ute nedtobe je obrupav nuap kebafug zamu fasu cak wi row fal ge jik ul. Ihmeved lu lidjono nig zi mofcurefu dohsejavi kagupu weiriho gefah japuku bumifoc nem ren likopsi zi ra cutcesdet. Kencoziw hosahama jirvoffu vooceza no mawe ajefem hegew mica jergap mihusi damak tiezga voewa sacdo pasem."
+  },
+  "apiKey": "6d22c7c83b3a8c4820dc850334937bc76d420f904fc64ca5af2d8d31f685bc21",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
