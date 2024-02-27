@@ -1,0 +1,26 @@
+{
+  "name": "Alta Carson",
+  "age": 30,
+  "address": {
+    "street": "Bipiz Boulevard",
+    "city": "Wirzohi",
+    "state": "RI",
+    "zip": "51086"
+  },
+  "contact": {
+    "phone": "(870) 832-9430",
+    "servicePhone": "800568221"
+  },
+  "birthday": "1965-07-27T09:49:24.652Z",
+  "ip": "43.39.138.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Ga senodnaj famsutjur ne mizcias worawgi opmabil delol wez ravhodfoj jiputuf tugesu cunne tikazo. Nooz fis tukul vaznuge taob lif pauf nusru vi vacji zin mughum goiboluj tehujop zesgo vel teamo ki. Zujmehi fukfo cu gamkip udwo ja huca wokkoace ejodihaw cuteskas casohe rikhik hokti maeb dovvimjov fegocuti fof jerej.",
+    "bio": "Kid uwvi nope ef nedas tub iw ikoinhi vofkunag asaejemuz mupwittu pu irujidke mibdu mi. Lamag jucoh vac tiritmi vun umreatu sog nuznesak misuto vo canubpo tuvduhu. Pe merhos icrup jusapge ra toszi juh canu wi nosket rar laguw wursetul zonimi hic sa ah. Wakke vundev hoh ewlueno ollezmo zarkebwis mekatob zaho luragba medinhi cibnu duotije ut lafozbu me ce bit."
+  },
+  "apiKey": "fb2d0b6858fde94362512e349fc6d9a95361a92724e5941cf01ffcccc65df8ab",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
