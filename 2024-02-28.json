@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Moss",
+  "age": 55,
+  "address": {
+    "street": "Wuri Trail",
+    "city": "Onnibim",
+    "state": "HI",
+    "zip": "46206"
+  },
+  "contact": {
+    "phone": "(608) 483-6229",
+    "servicePhone": "800718866"
+  },
+  "birthday": "1962-02-17T12:42:19.632Z",
+  "ip": "62.166.29.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi jabteku kijwidzin ulvas hozokes paefa warop zibilla ehewuntew peafeav el dopuh. Cecri muga jec nelipige sepsig bisepna ocepgi mahmiz ginug zizeg igigerik potnem hotsa ucuwov. Pusfe mujbe vujnihem nafsaz sumas ulo rug obero esoseghe sitiulo sisfe wurtu to. Bem de uladuri ib lufepa ho epazuw levu tur ke fe mu ajijad fannet mek ef hucuh. Jek hizico waci ni wepa cudjoti igeri sez zitalnu jakdo us jubah afo ahunael ubihoha iwloca wet. Ujiovu duweju pife urijakap limew bazu hiref joabu tubueto heknof jiw pahjeej fienoc lecti.",
+    "bio": "Voevlu pobih oh felo dol guzpa go rore farog judus mivul vispukig titmehros bil saz. Ototu enekimi hivni sut wuj kod luun eniita jeffeilo porusho wiitmib kocoza. Eseb bi fucohe peso jekole ewu ojvapko tigippi cemi mipo wa lapidne idogetpef golah zopufo. Jigmi uzoivuop fagzeje imigra afid adogifla ebekohna izivavmo dawi nihoc toh nofawagu gamliked saumide jazzaguj."
+  },
+  "apiKey": "79fe0a44164e65a3a97afa0c245ff8307d8314555cd58d98f5ba733981781fab",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
