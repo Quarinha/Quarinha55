@@ -1,0 +1,26 @@
+{
+  "name": "Alex Walsh",
+  "age": 42,
+  "address": {
+    "street": "Luoko Ridge",
+    "city": "Cigulwo",
+    "state": "UT",
+    "zip": "77296"
+  },
+  "contact": {
+    "phone": "(439) 672-8733",
+    "servicePhone": "800794896"
+  },
+  "birthday": "2003-10-23T00:29:11.361Z",
+  "ip": "70.0.82.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri pahigwi ta mop wit cuk fanofo efe hike ekitozi igfiru wu kezujje ivoraknid wurtubip ku pasec va. Ezwos iclef isibleh nusuho tumom ibonen gi begjiz ez nezwobu panmehga gaznedet. Wihaire cujgibno dipilwun ubu ipbu kaac nufufceb juomisep cierko zeb godil ri. Kascipfob goh selcouda fokce ba raztu ukmucoc ipapoce hekhavlig sohola cal heru pu me kireufo pivar.",
+    "bio": "Vupura wur ma ihozunu vu eweifmo epopin ukiafike wu fuwor doga ike zecidazas lu hunoruje uf jipoc zetdo. Uda ji wana put rure cinonjuj filel setoverap ari unu teefpa vuwhaeh zicana bow litoke. Hojit metudel ofiweb hupamgil de orase gunnokid jobje fowolic koccov ep otojepvuz couno hogap codamo lazgemtik gahwitom iwafe."
+  },
+  "apiKey": "89b08166c7bf972a170e816f3e6c80f64309fe46de6b99fc571466cdaec992ee",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
