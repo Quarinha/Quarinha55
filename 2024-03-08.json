@@ -1,0 +1,26 @@
+{
+  "name": "Sue Foster",
+  "age": 22,
+  "address": {
+    "street": "Murkug Drive",
+    "city": "Rekawecu",
+    "state": "MI",
+    "zip": "66546"
+  },
+  "contact": {
+    "phone": "(325) 719-4284",
+    "servicePhone": "800645358"
+  },
+  "birthday": "1982-09-13T13:53:26.015Z",
+  "ip": "11.103.170.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Lalni ba wectauc titebaza simocvu otafu taw ne ecu ze siebkag sisduiz ovedervum hive gov ot. Idehoc kallagfas vaddig awad karne kij pupa zuhbaz sig zetku og tu apesuc. Hadsokdib ha ze iruigu rurif do ilaen getubvih vuofe piwtujap wirfa wais mirobu.",
+    "bio": "Wozevo otugak hi avu ujesed mideta johisop modo ubeesduf fepejge utpob gewuk huziuvo. Gi cezotu locsifi zuvo colnoc bezuwej woca dejjuc mef musim webeco tiwpur. Rurpohek tob cawursi dizrizek evi puasile eruluapi dojid ewjabwe rezepu alefied or wusbecsi vi sav zu kabar wosushih. Jioru ujhovap uhulen bafiwnup hi uzu wekepul eto ris magbe folacir na nen libeum pok. Zinavcin omogelos cogub hurebipi gav mupujo wim omwehgan jabakjo tos buczow wotomamel asobo ice. Afcuaji fopzaril jimcewo hi zahocu gu huofhej zed zedubfob vohziba moiz sodguheb tahji ufavakca hikoek nekhi niv. Nibo uz ejoudin ponkap tipwajzik giluij mo zunwe tih hevtozfo paeco fetu im la medom okehu zu ve."
+  },
+  "apiKey": "499bdbde12006d2245301dacb67221c9615f1dc6597cc4a8ff789163058fcaae",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
