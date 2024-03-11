@@ -1,0 +1,26 @@
+{
+  "name": "Frank Carter",
+  "age": 25,
+  "address": {
+    "street": "Ruob Trail",
+    "city": "Tucnoro",
+    "state": "MI",
+    "zip": "32330"
+  },
+  "contact": {
+    "phone": "(560) 329-8848",
+    "servicePhone": "800633953"
+  },
+  "birthday": "1986-03-04T11:50:00.661Z",
+  "ip": "87.188.62.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Buw jag jirwabaw ivtovkoz ziaw jotut ve tip dafa zek oha efrek. Tuh ciz op fod wirenu ca botuwe ok lodjih aki ewtufe tum dotnojuw vigwe. Sobus upaemti vofu doibesa saruga gartef bokkecem elneg vase ma pa ugihuc kazok adifado hiderwub.",
+    "bio": "Ab regiclo wapforor zimab vowlep emonifac tanav oho fedwidse adufuf cotonnih ecozudsun tievu. Fa doj mudoda var tu idu ibi iniwewno fapubme ju cahfodwev ve newa jasijar nozosig kodhoh mekima aho. Uwejhuv lulannes ze laf anza bokotho zu veni maz fu wibaf womeszel welon ehecijik. Nojcagci epuzoej up hez idcadak pe uso gisib gisfog eb ig netaaro."
+  },
+  "apiKey": "12e31c4eddc67c332864ff37ea8195cabc35026ff08445c8ee4f834a415e53ca",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
