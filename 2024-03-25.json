@@ -1,0 +1,26 @@
+{
+  "name": "Brian Larson",
+  "age": 30,
+  "address": {
+    "street": "Belo Center",
+    "city": "Kiljukapa",
+    "state": "GA",
+    "zip": "59911"
+  },
+  "contact": {
+    "phone": "(473) 611-9511",
+    "servicePhone": "800856156"
+  },
+  "birthday": "1992-05-08T16:03:23.343Z",
+  "ip": "124.156.206.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubomeha lolab soruho olol zun jetjo zutonuha taz nij gopco gos ij kahoti jiih hidohbog we. Wegarru iwi fogjin pepsedit ka mivfo vevutwig sur lec rak hafajil eze luzaz pof datlug. Kin tafno zi dot eleposfa rinmo sev hel okiimjag di tadi lapazo gu. Ete fobzodam ragulunad owagockid hisu ic viho ces gokahka amdof al emi tep nuzari diarakeg ga.",
+    "bio": "Ohbijaw fiba sececadi faemfef ko bilihvin wajefu pajdabo kijbud ted conom dec tajuhmi ke tac. Savsu cic kewwened cevi kamuvit zarnowgu wowso licje puw zor cehgat roegafus si musabec lizif. Ufegun nodfoizi bu veg bektin fuvi bikonon navoj de hunohfiv fug baja bi omuf cic miisu arfo. Mube lasefuwu sa ca basidve lapiba av po ale diw aw pag. Ca ikpi rinisad adauzra biwizelat si ge hekitsi omu ruf itelooga ibikekav toj neuw bit ohorowe. Okenozi bimib wedbozcob soemiebe livdiof pova eruhil za nok si kijivpa reg bornuzal."
+  },
+  "apiKey": "fd89a7cbc176d49b904a6241d64117dcffa3400b70303fc07fb7685ec3487476",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
