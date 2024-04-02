@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Fields",
+  "age": 61,
+  "address": {
+    "street": "Loewi Plaza",
+    "city": "Bufabeg",
+    "state": "MT",
+    "zip": "16667"
+  },
+  "contact": {
+    "phone": "(883) 690-9927",
+    "servicePhone": "800595233"
+  },
+  "birthday": "1989-10-19T10:02:05.317Z",
+  "ip": "250.85.77.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Hac zivulgos sicibo ridez pot jo ubmudas abajap divu watoka ewuceda medrotlis. Sahwulrir zobej mofcut buhri uti nelruf ozju ik uraaro ow bo gaz azi. Odezi jemu kowligat wezesugeg wodrigon tuw osirimoto cih hew afla olcetrec zoef tot apzohrut rosfahvih amka.",
+    "bio": "Oweab ukiop hotsep ip egukojez dawzema bivoil kugakfod bi osana bove buk bimatvac pusah ki. Guwsoza mabur wegari ozowolid vil izige we dojitha ero hihare bujegilek go. Filif pausanim koc lu fadev kobutedat juwodije wo temicfor deli cororra fesif. Nuv ezi mar sigtejo izula gohniik zano gide pol kolci jaebec kit po ara pokbojeto hibiw kus miopafi. Tejmegub hipo momesuwi pofbomeh dop ruwko kaur aderahop ciwgildec lodoc muf lehcaz. Bowi gufeguke gotoj mobfipi mucob dov suzpaka wawbojog rofuka zofot do evop sojdeife tudac rih."
+  },
+  "apiKey": "06e92d40eba0ed3a4873256296c4b9fb05b851e005ca55458dd490c74f1b48a5",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
