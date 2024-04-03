@@ -1,0 +1,26 @@
+{
+  "name": "Brett Hunt",
+  "age": 37,
+  "address": {
+    "street": "Niwob Ridge",
+    "city": "Vajfonmir",
+    "state": "AL",
+    "zip": "56158"
+  },
+  "contact": {
+    "phone": "(919) 512-1690",
+    "servicePhone": "800765276"
+  },
+  "birthday": "1995-11-21T17:55:10.248Z",
+  "ip": "192.33.46.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Tega gelta wad ifuafa sor zatlogbo cov coweh dapiw fof gekoj agwinwas vazojuka. Uzuab lav ruj ok ba tiwnuvu esluifu nevsaeb moj jutinune gesgub guced omze anmew paen loz. Opugukafo cosuc zejoze peruz mat cepenjo juw kosa za ra kop tano.",
+    "bio": "Gus amo puw hapza ewenuma oblaz awofavip lonef olzamen cu obofacu gom efozo etovut. Kigce kuz eva jin olufinmal vija jimov ewujedof cusikzej cevicna zeok kozeg fe cukujha ji. Opriga uf vul utu noruvjuv imuja tipohkon ep wonaz gikuk bid busamme komuuki himlitgub jivletbi. Zegoz ac eponilpol ni ma kek lu tavtov hipirula cujdopa sargaba se five uvo fiwak tilasvew ej. Tub remduj palipo fot hiimu buinudu diuno ta jozig likwowog ozwusel bimrow zozkaz ti het los zekle fewcu. Gepabi ob fepas ge liv peolu koile hitihiuc eberol meppikvi fawazgit fe za pip faf enugirad vo. Um dupac fu apubajje zowsilna talketsum adasu cu ma kojejbow wiccildo si kubur sib ted hozomred hec."
+  },
+  "apiKey": "b36f8fd3b74e5d26bfe04f4a284671d5cf6de0a15d0acfce0aabeac5c50d8032",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
